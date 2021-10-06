@@ -26,6 +26,7 @@ _Cucurbita pepo_ has been cultivated for its edible fruits for thousands of year
 Native to: Mexico Central, Mexico Gulf, Mexico Northeast, Mexico Northwest, Mexico Southeast, Mexico Southwest 
 <param ve-entity eid="Q1489"
 <param ve-map center="Q2945563" zoom="4" prefer-geojson>
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/planthumanities/example/main/pumpkin_origin.json" title="Origin of Pumpkin" active> 
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
