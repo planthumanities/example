@@ -23,6 +23,9 @@ _Cucurbita pepo_ has been cultivated for its edible fruits for thousands of year
 <param ve-compare sync url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/Contrayerva/Compare_B.jpg">
 <param ve-compare url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/Contrayerva/Compare_FC.jpg">
 
+Native to: Mexico Central, Mexico Gulf, Mexico Northeast, Mexico Northwest, Mexico Southeast, Mexico Southwest 
+<param ve-map center="Q2945563" zoom="4">
+
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
