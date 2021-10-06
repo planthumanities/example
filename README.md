@@ -19,6 +19,10 @@ _Cucurbita pepo_ has been cultivated for its edible fruits for thousands of year
 <param ve-entity eid="Q7229863">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a6/Cucurbita_pepo_collage_1.png">
 
+_Cucurbita pepo_ has been cultivated for its edible fruits for thousands of years and remains a crop plant of great economic importance today. An extensive range of cultivars is available, including those grown to produce fruits for <span data-click-image-zoomto="1,488,507,413">Halloween lanterns</span> and pumpkin pies, courgettes (zucchinis), marrows, many types of squashes and ornamental gourds. It is important to note that the common names pumpkin and squash are used for more than one species of plant. For example, the fruits of some cultivated forms of Cucurbita maxima, C. moschata and C. argyrosperma are also sometimes known as pumpkins and squashes.
+<param ve-compare sync url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/Contrayerva/Compare_B.jpg">
+<param ve-compare url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/Contrayerva/Compare_FC.jpg">
+
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
